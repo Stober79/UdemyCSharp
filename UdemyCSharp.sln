@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumy", "..\Enumy\Enumy.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "..\Interfaces\Interfaces.csproj", "{63A401FC-4F60-4729-B1A1-AE6BD74B4DBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "..\GenericClass\GenericClass.csproj", "{CFB04009-6C35-4F70-BF27-26F6037175C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueObjects", "..\ValueObjects\ValueObjects.csproj", "{383E37B9-B652-4840-BB39-13C66F5E9B2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{63A401FC-4F60-4729-B1A1-AE6BD74B4DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63A401FC-4F60-4729-B1A1-AE6BD74B4DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63A401FC-4F60-4729-B1A1-AE6BD74B4DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB04009-6C35-4F70-BF27-26F6037175C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB04009-6C35-4F70-BF27-26F6037175C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB04009-6C35-4F70-BF27-26F6037175C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB04009-6C35-4F70-BF27-26F6037175C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{383E37B9-B652-4840-BB39-13C66F5E9B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383E37B9-B652-4840-BB39-13C66F5E9B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383E37B9-B652-4840-BB39-13C66F5E9B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383E37B9-B652-4840-BB39-13C66F5E9B2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
