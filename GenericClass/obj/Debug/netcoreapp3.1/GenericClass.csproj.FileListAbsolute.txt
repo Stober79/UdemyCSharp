@@ -1,0 +1,14 @@
+C:\UdemyCSharp\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.exe
+C:\UdemyCSharp\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.deps.json
+C:\UdemyCSharp\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.runtimeconfig.json
+C:\UdemyCSharp\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.runtimeconfig.dev.json
+C:\UdemyCSharp\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.dll
+C:\UdemyCSharp\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.pdb
+C:\UdemyCSharp\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.csproj.AssemblyReference.cache
+C:\UdemyCSharp\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\UdemyCSharp\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.AssemblyInfoInputs.cache
+C:\UdemyCSharp\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.AssemblyInfo.cs
+C:\UdemyCSharp\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.csproj.CoreCompileInputs.cache
+C:\UdemyCSharp\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.dll
+C:\UdemyCSharp\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.pdb
+C:\UdemyCSharp\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.genruntimeconfig.cache

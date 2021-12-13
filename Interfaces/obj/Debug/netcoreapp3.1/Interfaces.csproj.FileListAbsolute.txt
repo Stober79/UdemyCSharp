@@ -1,0 +1,14 @@
+C:\UdemyCSharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\UdemyCSharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\UdemyCSharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\UdemyCSharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\UdemyCSharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\UdemyCSharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\UdemyCSharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+C:\UdemyCSharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\UdemyCSharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\UdemyCSharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\UdemyCSharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\UdemyCSharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\UdemyCSharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\UdemyCSharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
