@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+x78zkwtgQnFbTYFrv8B0/k7f2hs+5LkEa4OcoY8sjG81+4a7Fsl+XbkUmPnhIriBKwCkGeB2efPPthJGV3wjQ==",
+  "dgSpecHash": "aiBn9LeQOASaH+vpsswn/FGCUjjuUKMpKbLMkS4lfna9wVQSblnyBAl5lppRJGi4aRAd/pg4dLaX1ckg7dkDVQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\UdemyCSharp\\GenericClass\\GenericClass.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
     "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"

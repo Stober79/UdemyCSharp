@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BfhO4Cvj6IlG82YnVDJcGNsR20Ylk6MTMjH2+KgKYlhMR8df/fhdXB0Tu4OEmZhiPFNYI1NfZNiHc9t6Y1effg==",
+  "dgSpecHash": "HT/iOe5y5aZL/RZCAAhMszLNp8CCUMoBskJP0HhfV8zwn4iGq9UABPP1RJgp0aV64f7USPAJf8h7XEqPTdey7w==",
   "success": true,
   "projectFilePath": "D:\\Projects\\UdemyCSharp\\LambdyDelegatyFunkcjeAnonimowe\\LambdyDelegatyFunkcjeAnonimowe.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
     "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
