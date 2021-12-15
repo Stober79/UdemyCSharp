@@ -7,10 +7,7 @@ namespace Interfaces
 {
     class Program
     {
-        public static ILogger GetLogger()
-        {
-            return new ConsolLogger();
-        }
+        public static ILogger GetLogger() => new ConsolLogger();
         public static void Main(string[] args)
         {
             var logger = GetLogger();
@@ -32,7 +29,7 @@ namespace Interfaces
     public interface ILogger//wszystkie metody i zmienne w interfejsie się publiczne dlatego nie wstawiamy już public
     {
         LogLevel LogLevel { get; set; }
-        void LogMessage(string message, LogLevel logLevel=LogLevel.Verbose);//nie podajemy ciała funkcji ponieważ klasa która to będzie implementować musi to zapewnić
+        void LogMessage(string message, LogLevel logLevel = LogLevel.Verbose);//nie podajemy ciała funkcji ponieważ klasa która to będzie implementować musi to zapewnić
     }
     public class ConsolLogger : ILogger
     {
