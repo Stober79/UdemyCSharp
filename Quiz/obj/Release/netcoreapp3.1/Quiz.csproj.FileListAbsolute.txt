@@ -1,0 +1,14 @@
+D:\Projects\UdemyCSharp\Quiz\bin\Release\netcoreapp3.1\Quiz.exe
+D:\Projects\UdemyCSharp\Quiz\bin\Release\netcoreapp3.1\Quiz.deps.json
+D:\Projects\UdemyCSharp\Quiz\bin\Release\netcoreapp3.1\Quiz.runtimeconfig.json
+D:\Projects\UdemyCSharp\Quiz\bin\Release\netcoreapp3.1\Quiz.runtimeconfig.dev.json
+D:\Projects\UdemyCSharp\Quiz\bin\Release\netcoreapp3.1\Quiz.dll
+D:\Projects\UdemyCSharp\Quiz\bin\Release\netcoreapp3.1\Quiz.pdb
+D:\Projects\UdemyCSharp\Quiz\obj\Release\netcoreapp3.1\Quiz.csproj.AssemblyReference.cache
+D:\Projects\UdemyCSharp\Quiz\obj\Release\netcoreapp3.1\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\UdemyCSharp\Quiz\obj\Release\netcoreapp3.1\Quiz.AssemblyInfoInputs.cache
+D:\Projects\UdemyCSharp\Quiz\obj\Release\netcoreapp3.1\Quiz.AssemblyInfo.cs
+D:\Projects\UdemyCSharp\Quiz\obj\Release\netcoreapp3.1\Quiz.csproj.CoreCompileInputs.cache
+D:\Projects\UdemyCSharp\Quiz\obj\Release\netcoreapp3.1\Quiz.dll
+D:\Projects\UdemyCSharp\Quiz\obj\Release\netcoreapp3.1\Quiz.pdb
+D:\Projects\UdemyCSharp\Quiz\obj\Release\netcoreapp3.1\Quiz.genruntimeconfig.cache

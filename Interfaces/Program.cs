@@ -10,7 +10,7 @@ namespace Interfaces
         public static ILogger GetLogger() => new ConsolLogger();
         public static void Main(string[] args)
         {
-            var logger = GetLogger();
+            var logger = GetLogger(); 
             logger.LogMessage("wiadamość");
             logger.LogMessage("wiadomość Krytyczna", LogLevel.Critical);
             //Poniżej Dependency Injection

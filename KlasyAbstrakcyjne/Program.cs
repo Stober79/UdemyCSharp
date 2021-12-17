@@ -17,7 +17,7 @@ namespace KlasyAnonimowe
             {
                 2,3,8,1,10,15
             };
-            var listOFStrings = new List<string>()
+            var listOfStrings = new List<string>()
             {
                 "cos", "tam", "jest", "fajnego"
             };
