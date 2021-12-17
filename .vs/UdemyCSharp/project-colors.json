@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b28e1a82-49c8-4250-8870-c25b56d65b25": {
+      "ProjectGuid": "b28e1a82-49c8-4250-8870-c25b56d65b25",
+      "DisplayName": "Quiz",
+      "ColorIndex": 0
+    },
+    "76050d19-3045-4a6f-9d1f-40028d410d96": {
+      "ProjectGuid": "76050d19-3045-4a6f-9d1f-40028d410d96",
+      "DisplayName": "Json",
+      "ColorIndex": 1
+    },
+    "197cc859-7f6e-4b6a-90f9-e66f42bd247b": {
+      "ProjectGuid": "197cc859-7f6e-4b6a-90f9-e66f42bd247b",
+      "DisplayName": "Enumy",
+      "ColorIndex": 2
+    },
+    "63a401fc-4f60-4729-b1a1-ae6bd74b4dbc": {
+      "ProjectGuid": "63a401fc-4f60-4729-b1a1-ae6bd74b4dbc",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 3
+    },
+    "383e37b9-b652-4840-bb39-13c66f5e9b2a": {
+      "ProjectGuid": "383e37b9-b652-4840-bb39-13c66f5e9b2a",
+      "DisplayName": "ValueObjects",
+      "ColorIndex": 4
+    },
+    "540e1b93-5a19-4909-bebb-43f54cd78016": {
+      "ProjectGuid": "540e1b93-5a19-4909-bebb-43f54cd78016",
+      "DisplayName": "UdemyCSharp",
+      "ColorIndex": 5
+    },
+    "009502ed-815f-4cc1-a5e6-4b50e6292992": {
+      "ProjectGuid": "009502ed-815f-4cc1-a5e6-4b50e6292992",
+      "DisplayName": "LambdyDelegatyFunkcjeAnonimowe",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9b91ac6b-be06-44fe-ba15-124f0c7b8f00": {
+      "ProjectGuid": "9b91ac6b-be06-44fe-ba15-124f0c7b8f00",
+      "DisplayName": "KlasyAnonimowe",
+      "ColorIndex": 7
+    },
+    "cfb04009-6c35-4f70-bf27-26f6037175c4": {
+      "ProjectGuid": "cfb04009-6c35-4f70-bf27-26f6037175c4",
+      "DisplayName": "GenericClass",
+      "ColorIndex": 8
+    },
+    "12fa52c7-4c37-4234-9c2a-baa814176ad4": {
+      "ProjectGuid": "12fa52c7-4c37-4234-9c2a-baa814176ad4",
+      "DisplayName": "OOP",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
