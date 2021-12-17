@@ -1,0 +1,14 @@
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\bin\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.exe
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\bin\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.deps.json
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\bin\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.runtimeconfig.json
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\bin\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.runtimeconfig.dev.json
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\bin\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.dll
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\bin\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.pdb
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\obj\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.csproj.AssemblyReference.cache
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\obj\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\obj\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.AssemblyInfoInputs.cache
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\obj\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.AssemblyInfo.cs
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\obj\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.csproj.CoreCompileInputs.cache
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\obj\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.dll
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\obj\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.pdb
+C:\UdemyCSharp\LambdyDelegatyFunkcjeAnonimowe\obj\Debug\netcoreapp3.1\LambdyDelegatyFunkcjeAnonimowe.genruntimeconfig.cache

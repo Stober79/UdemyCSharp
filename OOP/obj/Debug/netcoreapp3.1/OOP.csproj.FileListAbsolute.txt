@@ -1,0 +1,14 @@
+C:\UdemyCSharp\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\UdemyCSharp\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\UdemyCSharp\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\UdemyCSharp\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\UdemyCSharp\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\UdemyCSharp\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\UdemyCSharp\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.AssemblyReference.cache
+C:\UdemyCSharp\OOP\obj\Debug\netcoreapp3.1\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\UdemyCSharp\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\UdemyCSharp\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\UdemyCSharp\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\UdemyCSharp\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\UdemyCSharp\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\UdemyCSharp\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache

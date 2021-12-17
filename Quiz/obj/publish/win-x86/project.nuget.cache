@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "B1AZJUfY6rK+1hZyVF1dwHnRzIRXyOa+633HJwtB28Y8Upoza8g7Bh1/XOgcYCR9wAf/JFqPP0tUquYUqzsGXg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\UdemyCSharp\\Quiz\\Quiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.22\\microsoft.netcore.app.runtime.win-x86.3.1.22.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.22\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.22.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.22\\microsoft.aspnetcore.app.runtime.win-x86.3.1.22.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.22\\microsoft.netcore.app.host.win-x86.3.1.22.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

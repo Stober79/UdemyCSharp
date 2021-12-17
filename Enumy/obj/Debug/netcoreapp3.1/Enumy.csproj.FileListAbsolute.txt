@@ -1,0 +1,14 @@
+C:\UdemyCSharp\Enumy\bin\Debug\netcoreapp3.1\Enumy.exe
+C:\UdemyCSharp\Enumy\bin\Debug\netcoreapp3.1\Enumy.deps.json
+C:\UdemyCSharp\Enumy\bin\Debug\netcoreapp3.1\Enumy.runtimeconfig.json
+C:\UdemyCSharp\Enumy\bin\Debug\netcoreapp3.1\Enumy.runtimeconfig.dev.json
+C:\UdemyCSharp\Enumy\bin\Debug\netcoreapp3.1\Enumy.dll
+C:\UdemyCSharp\Enumy\bin\Debug\netcoreapp3.1\Enumy.pdb
+C:\UdemyCSharp\Enumy\obj\Debug\netcoreapp3.1\Enumy.csproj.AssemblyReference.cache
+C:\UdemyCSharp\Enumy\obj\Debug\netcoreapp3.1\Enumy.GeneratedMSBuildEditorConfig.editorconfig
+C:\UdemyCSharp\Enumy\obj\Debug\netcoreapp3.1\Enumy.AssemblyInfoInputs.cache
+C:\UdemyCSharp\Enumy\obj\Debug\netcoreapp3.1\Enumy.AssemblyInfo.cs
+C:\UdemyCSharp\Enumy\obj\Debug\netcoreapp3.1\Enumy.csproj.CoreCompileInputs.cache
+C:\UdemyCSharp\Enumy\obj\Debug\netcoreapp3.1\Enumy.dll
+C:\UdemyCSharp\Enumy\obj\Debug\netcoreapp3.1\Enumy.pdb
+C:\UdemyCSharp\Enumy\obj\Debug\netcoreapp3.1\Enumy.genruntimeconfig.cache

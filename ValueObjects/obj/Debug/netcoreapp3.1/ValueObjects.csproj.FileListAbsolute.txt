@@ -1,0 +1,16 @@
+C:\UdemyCSharp\ValueObjects\bin\Debug\netcoreapp3.1\ValueObjects.exe
+C:\UdemyCSharp\ValueObjects\bin\Debug\netcoreapp3.1\ValueObjects.deps.json
+C:\UdemyCSharp\ValueObjects\bin\Debug\netcoreapp3.1\ValueObjects.runtimeconfig.json
+C:\UdemyCSharp\ValueObjects\bin\Debug\netcoreapp3.1\ValueObjects.runtimeconfig.dev.json
+C:\UdemyCSharp\ValueObjects\bin\Debug\netcoreapp3.1\ValueObjects.dll
+C:\UdemyCSharp\ValueObjects\bin\Debug\netcoreapp3.1\ValueObjects.pdb
+C:\UdemyCSharp\ValueObjects\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\UdemyCSharp\ValueObjects\obj\Debug\netcoreapp3.1\ValueObjects.csproj.AssemblyReference.cache
+C:\UdemyCSharp\ValueObjects\obj\Debug\netcoreapp3.1\ValueObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\UdemyCSharp\ValueObjects\obj\Debug\netcoreapp3.1\ValueObjects.AssemblyInfoInputs.cache
+C:\UdemyCSharp\ValueObjects\obj\Debug\netcoreapp3.1\ValueObjects.AssemblyInfo.cs
+C:\UdemyCSharp\ValueObjects\obj\Debug\netcoreapp3.1\ValueObjects.csproj.CoreCompileInputs.cache
+C:\UdemyCSharp\ValueObjects\obj\Debug\netcoreapp3.1\ValueObjects.csproj.CopyComplete
+C:\UdemyCSharp\ValueObjects\obj\Debug\netcoreapp3.1\ValueObjects.dll
+C:\UdemyCSharp\ValueObjects\obj\Debug\netcoreapp3.1\ValueObjects.pdb
+C:\UdemyCSharp\ValueObjects\obj\Debug\netcoreapp3.1\ValueObjects.genruntimeconfig.cache

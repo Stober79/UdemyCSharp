@@ -1,0 +1,14 @@
+C:\UdemyCSharp\UdemyCSharp\bin\Debug\netcoreapp3.1\UdemyCSharp.exe
+C:\UdemyCSharp\UdemyCSharp\bin\Debug\netcoreapp3.1\UdemyCSharp.deps.json
+C:\UdemyCSharp\UdemyCSharp\bin\Debug\netcoreapp3.1\UdemyCSharp.runtimeconfig.json
+C:\UdemyCSharp\UdemyCSharp\bin\Debug\netcoreapp3.1\UdemyCSharp.runtimeconfig.dev.json
+C:\UdemyCSharp\UdemyCSharp\bin\Debug\netcoreapp3.1\UdemyCSharp.dll
+C:\UdemyCSharp\UdemyCSharp\bin\Debug\netcoreapp3.1\UdemyCSharp.pdb
+C:\UdemyCSharp\UdemyCSharp\obj\Debug\netcoreapp3.1\UdemyCSharp.csproj.AssemblyReference.cache
+C:\UdemyCSharp\UdemyCSharp\obj\Debug\netcoreapp3.1\UdemyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\UdemyCSharp\UdemyCSharp\obj\Debug\netcoreapp3.1\UdemyCSharp.AssemblyInfoInputs.cache
+C:\UdemyCSharp\UdemyCSharp\obj\Debug\netcoreapp3.1\UdemyCSharp.AssemblyInfo.cs
+C:\UdemyCSharp\UdemyCSharp\obj\Debug\netcoreapp3.1\UdemyCSharp.csproj.CoreCompileInputs.cache
+C:\UdemyCSharp\UdemyCSharp\obj\Debug\netcoreapp3.1\UdemyCSharp.dll
+C:\UdemyCSharp\UdemyCSharp\obj\Debug\netcoreapp3.1\UdemyCSharp.pdb
+C:\UdemyCSharp\UdemyCSharp\obj\Debug\netcoreapp3.1\UdemyCSharp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A0DoDK9KJ3DpmtNR0b/lVFi+P/7rPsUaYTj6isxPzaB7bYo04yVXqNWaeVbFFrhwTIFvBQIhvyQgnQGNEmlv4A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\UdemyCSharp\\Quiz\\Quiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

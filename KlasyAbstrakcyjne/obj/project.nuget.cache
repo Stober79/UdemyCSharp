@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XOoMMHT9GVf9Cc8Jt/yVp+P7je72b1sy1iHqQsaZwMWiyH+cCnoJx2alO2iJz4P9RuzDqAp8iTZ+IQKX9CSVZw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\UdemyCSharp\\KlasyAbstrakcyjne\\KlasyAnonimowe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

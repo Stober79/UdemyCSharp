@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LambdyDelegatyFunkcjeAnonimowe/1.0.0": {
+        "runtime": {
+          "LambdyDelegatyFunkcjeAnonimowe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LambdyDelegatyFunkcjeAnonimowe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
