@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vtD4Ea2Kf3eytF/WVHn8KSxLtHXhG1fW0bYZ010MRIie8dZOcPAM8xPSUaUs0JVAFofeqRWHO1esotFbwi81Q==",
+  "success": false,
+  "projectFilePath": "D:\\Projects\\UdemyCSharp\\UdemyCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Robert Steiman\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Projects\\ValueObjects\\ValueObjects.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Projects\\ValueObjects\\ValueObjects.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Projects\\OOP\\OOP.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Projects\\OOP\\OOP.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Projects\\Json\\Json.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Projects\\Json\\Json.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Projects\\Quiz\\Quiz.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Projects\\Quiz\\Quiz.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Projects\\GenericClass\\GenericClass.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Projects\\GenericClass\\GenericClass.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Projects\\Interfaces\\Interfaces.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Projects\\Interfaces\\Interfaces.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Projects\\KlasyAbstrakcyjne\\KlasyAnonimowe.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Projects\\KlasyAbstrakcyjne\\KlasyAnonimowe.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Projects\\LambdyDelegatyFunkcjeAnonimowe\\LambdyDelegatyFunkcjeAnonimowe.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Projects\\LambdyDelegatyFunkcjeAnonimowe\\LambdyDelegatyFunkcjeAnonimowe.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Projects\\Enumy\\Enumy.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Projects\\Enumy\\Enumy.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
